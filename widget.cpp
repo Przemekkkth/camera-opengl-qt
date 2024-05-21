@@ -183,6 +183,7 @@ void Widget::wheelEvent(QWheelEvent *event)
 
     calculateProjectionMatrix();
     update();
+    QOpenGLWidget::wheelEvent(event);
 }
 
 void Widget::calculateProjectionMatrix(int h, int w)
