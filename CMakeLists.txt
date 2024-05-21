@@ -24,10 +24,6 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         ${PROJECT_SOURCES}
         geometryengine.h geometryengine.cpp
         camera.h camera.cpp
-
-        #RESOURCES
-        #assets/shaders/fshader.glsl
-        #assets/shaders/vshader.glsl
     )
 
 # Resources:
