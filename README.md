@@ -3,3 +3,21 @@ This project demonstrates the implementation of a 3D camera concept in an applic
 The application showcases basic techniques for rendering a 3D scene and interacting with the camera, such as rotation, zoom, and panning.
 This project based on [learnopengl-website](https://learnopengl.com/Getting-started/Camera) and [qt-example](https://doc.qt.io/qt-6/qtopengl-cube-example.html) projects.
 
+## Screenshots
+![Example Image](assets/doc/screen0.png)
+
+## Controls
+
+|     Key       | Action        |
+| ------------- | ------------- |
+| w             | camera moves forward  |
+| s             | camera moves backward |
+| d             | camera moves right    |
+| a             | camera moves left     |
+| up            | camera moves up       |
+| down          | camera moves down     |
+| left          | camera turns left |
+| right         | camera turns right |
+| q             | camera turns up |
+| e             | camera turns down |
+| ESC           | app quits |
