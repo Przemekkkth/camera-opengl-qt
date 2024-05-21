@@ -21,3 +21,19 @@ This project based on [learnopengl-website](https://learnopengl.com/Getting-star
 | q             | camera turns up |
 | e             | camera turns down |
 | ESC           | app quits |
+
+## How to run
+* Clone the repository: `git clone https://github.com/Przemekkkth/camera-opengl-qt.git`
+* Navigate to the project directory: cd your-repository
+* Configure and build the project:
+```
+mkdir build
+cd build
+qmake ..
+make
+./your-executable
+```
+
+## Addons
+* [Qt](https://www.qt.io/) - cross-platform software for embedded & desktop
+* [learnopengl.com](https://learnopengl.com) - great website with series of OpenGL tutorials
