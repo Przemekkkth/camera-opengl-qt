@@ -37,3 +37,4 @@ make
 ## Addons
 * [Qt](https://www.qt.io/) - cross-platform software for embedded & desktop
 * [learnopengl.com](https://learnopengl.com) - great website with series of OpenGL tutorials
+* [youtube](https://youtu.be/PGxLBHU9dg0) - video
